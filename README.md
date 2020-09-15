@@ -4,7 +4,7 @@ My name is Zgell! I program all sorts of things. My main languages are:
 - Python
 - MATLAB
 - C++
-- HTML
+- HTML/CSS
 
 <!--
 **Zgell/Zgell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
