@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Zgell! I program all sorts of things. My main languages are:
+My name is Zgell! I'm a hobbyist programmer who works on all sorts of projects. My main languages are:
 - Python
 - MATLAB
 - C++
