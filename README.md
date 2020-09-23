@@ -7,6 +7,8 @@ My name is Zgell! I'm a hobbyist programmer and computer engineering student who
 - HTML/CSS
 - VHDL
 
+Here's a little bit more about me:
+
 - 🔭 I’m currently working on some small-scale projects while I'm in school
 - 🌱 I’m currently learning about VHDL and what I can do with it
 - 👯 I’m looking to collaborate on something interesting
