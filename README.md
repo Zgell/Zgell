@@ -4,7 +4,7 @@ My name is Zgell! I'm a hobbyist programmer and computer engineering student who
 - Python
 - MATLAB
 - C++
-- HTML/CSS
+- HTML and CSS
 - VHDL
 
 Here's a little bit more about me:
