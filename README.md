@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Zgell! I'm a hobbyist programmer and computer engineering student who works on all sorts of projects. My main programming languages are:
+My name is Zgell! I'm a hobbyist programmer and computer engineering student who works on all sorts of projects. My main programming languages are (in order of best to worst):
 - Python
 - MATLAB
 - C++
