@@ -8,6 +8,10 @@ My name is Zgell! I'm a hobbyist programmer and computer engineering student who
 - CSS
 - VHDL
 
+Languages that I want to learn in the future:
+- C# or Java
+- JavaScript (maybe?)
+
 Here's a little bit more about me:
 
 - 🔭 I’m currently working on some small-scale projects while I'm in school
