@@ -6,9 +6,9 @@ My name is Zgell! I'm a hobbyist programmer and computer engineering student who
 - C++
 - HTML
 - CSS
-- VHDL
 
-Languages that I want to learn in the future:
+######Languages that I want to learn in the future:
+- VHDL (currenting learning this one)
 - C# or Java
 - JavaScript (maybe?)
 
