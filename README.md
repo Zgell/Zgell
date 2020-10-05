@@ -10,12 +10,12 @@ I am...
 ### ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ ɪ ᴜꜱᴇ
 
 Some of the programming languages I use are:
-
+<!--
 - **𝙿𝚢𝚝𝚑𝚘𝚗**
 - **𝙼𝙰𝚃𝙻𝙰𝙱**
 - **𝙲++**
 - **𝙷𝚃𝙼𝙻 𝚊𝚗𝚍 𝙲𝚂𝚂**
-
+-->
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-python.png" height=80em align=center alt-text="Python" title="Python">]()
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-matlab.png" height=80em align=center alt-text="MATLAB" title="MATLAB">]()
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-cpp.png" height=80em align=center alt-text="C++" title="C++">]()
