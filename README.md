@@ -17,6 +17,10 @@ Some of the programming languages I use are:
 - **𝙷𝚃𝙼𝙻 𝚊𝚗𝚍 𝙲𝚂𝚂**
 
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-python.png" height=80em align=center alt-text="Python" title="Python">]()
+[<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-matlab.png" height=80em align=center alt-text="MATLAB" title="MATLAB">]()
+[<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-cpp.png" height=80em align=center alt-text="C++" title="C++">]()
+[<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-html.png" height=80em align=center alt-text="HTML" title="HTML">]()
+[<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-css.png" height=80em align=center alt-text="CSS" title="CSS">]()
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
 
