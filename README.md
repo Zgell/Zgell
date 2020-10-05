@@ -16,6 +16,8 @@ Some of the programming languages I use are:
 - **𝙲++**
 - **𝙷𝚃𝙼𝙻 𝚊𝚗𝚍 𝙲𝚂𝚂**
 
+[<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-python.png" height=80em align=center alt-text="Python">]()
+
 ### ᴡʜᴀᴛ ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
 
 - Learning VHDL and what I can do with it
@@ -37,6 +39,7 @@ This month's project is [Garter](https://github.com/Zgell/garter), a self-replic
 <!--
 Monospace Text Generator: https://www.fancytextpro.com/fancy-text-generator/Lunicodes
 ("Tiny Capital Text" for subtitles, "Monospace Text" for content)
+Markdown Simulator: https://jbt.github.io/markdown-editor/
 Inspirations:
 https://github.com/Raymo111/Raymo111
 -->
