@@ -17,7 +17,6 @@ Some of the programming languages I use are:
 - **𝙷𝚃𝙼𝙻 𝚊𝚗𝚍 𝙲𝚂𝚂**
 
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-python.png" height=80em align=center alt-text="Python" title="Python">]()
-[<img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" height=80em alt="HTML5" title="HTML5">]()
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
 
