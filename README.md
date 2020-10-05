@@ -12,7 +12,7 @@ My name is Zgell! I'm a hobbyist programmer and computer engineering student who
 - C# or Java
 - JavaScript (maybe?)
 
-Here's a little bit more about me:
+Here's a little bit more about me: (I'll update beyond the default format later when I can be bothered to)
 
 - 🔭 I’m currently working on some small-scale projects while I'm in school
 - 🌱 I’m currently learning about VHDL and what I can do with it
