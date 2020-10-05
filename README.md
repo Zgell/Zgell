@@ -1,6 +1,6 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘᴀɢᴇ!
 ### ᴀʙᴏᴜᴛ ᴍᴇ
-My name is Zgell
+My name is Zgell!
 
 I am...
 - A second-year computer nano-engineering student at the University of Alberta
