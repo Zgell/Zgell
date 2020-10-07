@@ -44,7 +44,7 @@ Here's a list of places you can reach out to me:
   </tr>
   <tr>
     <th><img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-instagram.png" height=40em align=center alt-text="Instagram" title="Instagram"></th>
-    <th><a href="https://www.instagram.com/zgell/">@zgell</a></th>
+    <th><a href="https://www.instagram.com/zgell/" target=_blank>@zgell</a></th>
   </tr>
 </table>
 
