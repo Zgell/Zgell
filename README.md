@@ -39,6 +39,7 @@ Here's a list of places you can reach out to me:
 
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-discord.png" height=40em align=left alt-text="Discord" title="Discord">]() Zgell#0436
 
+
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-instagram.png" height=40em align=left alt-text="Instagram" title="Instagram">]() @zgell
 
 <!--
