@@ -37,11 +37,21 @@ This month's project is [Garter](https://github.com/Zgell/garter), a self-replic
 ### ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ
 Here's a list of places you can reach out to me:
 
+<table style="width:30%">
+  <tr>
+    <th><img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-discord.png" height=40em align=left alt-text="Discord" title="Discord"</th>
+    <th>Zgell#0436</th>
+  </tr>
+  <tr>
+    <th><img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-instagram.png height=40em align=left alt-text="Instagram" title="Instagram"></th>
+    <th><a href="https://www.instagram.com/zgell/">@zgell</a></th>
+  </tr>
+</table>
+
+<!--
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-discord.png" height=40em align=left alt-text="Discord" title="Discord">]() Zgell#0436
-
-
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-instagram.png" height=40em align=left alt-text="Instagram" title="Instagram">]() @zgell
-
+-->
 <!--
 Monospace Text Generator: https://www.fancytextpro.com/fancy-text-generator/Lunicodes
 ("Tiny Capital Text" for subtitles, "Monospace Text" for content)
