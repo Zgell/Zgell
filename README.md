@@ -28,7 +28,7 @@ Some of the programming languages I use are:
 - Improving my CSS skills
 - Mastering Python
 
-In the future, I'd like to learn C#, Java and Javascript as well.
+Sometime in the future, I'd like to learn C#, Java and Javascript as well.
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
