@@ -24,11 +24,11 @@ Some of the programming languages I use are:
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
 
+- Improving my Python skills and learning about advanced features
 - Learning VHDL and what I can do with it
-- Improving my CSS skills
-- Mastering Python
+- Improving my CSS skills for better web design
 
-Sometime in the future, I'd like to learn C#, Java and Javascript as well.
+Sometime in the future, I'd like to learn C# and/or Java as well as Javascript/Typescript.
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
