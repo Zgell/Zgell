@@ -29,6 +29,7 @@ Some of the programming languages I use are:
 - Improving my CSS skills for better web design
 
 Sometime in the future, I'd like to learn C# and/or Java as well as Javascript/Typescript.
+I also want to learn a bit more about machine learning down the road and see what I can do with it.
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
