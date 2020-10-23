@@ -5,6 +5,7 @@ My name is Zgell!
 I am...
 - A second-year computer nano-engineering student at the University of Alberta
 - A hobbyist programmer
+- An avid learner
 - Interested in all sorts of areas in computer science, electronics and robotics
 
 ### ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ ɪ ᴜꜱᴇ
