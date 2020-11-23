@@ -34,7 +34,7 @@ I also want to learn a bit more about machine learning down the road and see wha
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
-This month's project is [Garter](https://github.com/Zgell/garter), a self-replicating Python program that functions like a computer virus.
+I do not currently have any projects scheduled for this month.
 
 ### ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ
 Here's a list of places you can reach out to me:
