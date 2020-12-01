@@ -34,7 +34,9 @@ I also want to learn a bit more about machine learning down the road and see wha
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
-I do not currently have any projects scheduled for this month.
+Last month's project was [PyTerminal](https://github.com/Zgell/pyterminal), a little library to make colour and text formatting more accessible for Python projects.
+This month's project is currently unknown, as I am busy with final exams.
+I am hoping to begin a larger project over the Christmas break/early January.
 
 ### ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ
 Here's a list of places you can reach out to me:
