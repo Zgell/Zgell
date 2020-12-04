@@ -8,9 +8,9 @@ I am...
 - An avid learner
 - Interested in all sorts of areas in computer science, electronics and robotics
 
-### ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ ɪ ᴜꜱᴇ
+### ʟᴀɴɢᴜᴀɢᴇꜱ ɪ ᴜꜱᴇ
 
-Some of the programming languages I use are:
+Some of the languages I use are:
 <!--
 - **𝙿𝚢𝚝𝚑𝚘𝚗**
 - **𝙼𝙰𝚃𝙻𝙰𝙱**
