@@ -6,7 +6,7 @@ I am...
 - A second-year computer nano-engineering student at the University of Alberta
 - A hobbyist programmer
 - An avid learner
-- Interested in all sorts of areas in computer science, electronics and robotics
+- Interested in all sorts of areas in computer science, electronics, robotics and rocketry
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ɪ ᴜꜱᴇ
 
@@ -29,14 +29,25 @@ Some of the languages I use are:
 - Learning VHDL and what I can do with it
 - Improving my CSS skills for better web design
 
+<!--
 Sometime in the future, I'd like to learn C# and/or Java as well as Javascript/Typescript.
 I also want to learn a bit more about machine learning down the road and see what I can do with it.
+-->
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
 Last month's project was [PyTerminal](https://github.com/Zgell/pyterminal), a little library to make colour and text formatting more accessible for Python projects.
+
 This month's project is currently unknown, as I am busy with final exams.
 I am hoping to begin a larger project over the Christmas break/early January.
+
+### ᴡʜᴀᴛ ɪ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ɪɴ ᴛʜᴇ ꜰᴜᴛᴜʀᴇ
+
+- A few more programming languages, such as...
+  - Java or C#
+  - Javascript or Typescript
+  - Rust (maybe?)
+- Machine Learning
 
 ### ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ
 Here's a list of places you can reach out to me:
