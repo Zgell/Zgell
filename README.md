@@ -3,7 +3,7 @@
 My name is Zgell!
 
 I am...
-- A second-year computer nano-engineering student at the University of Alberta
+- A second-year computer engineering (Nanoscale System Design program) student at the University of Alberta
 - A hobbyist programmer
 - An avid learner
 - Interested in all sorts of areas in computer science, electronics, robotics and rocketry
