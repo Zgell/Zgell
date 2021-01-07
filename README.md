@@ -56,12 +56,16 @@ Here's a list of places you can reach out to me:
 
 <table style="width:30%">
   <tr>
-    <th><img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-discord.png" height=40em align=center alt-text="Discord" title="Discord"</th>
-    <th>Zgell#0436</th>
+    <th><img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-linkedin.png" height=40em align=center alt-text="LinkedIn" title="LinkedIn"</th>
+    <th><a href="https://www.linkedin.com/in/zachary-gellner-866143203/" target=_blank>My LinkedIn</a></th>
   </tr>
   <tr>
     <th><img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-instagram.png" height=40em align=center alt-text="Instagram" title="Instagram"></th>
     <th><a href="https://www.instagram.com/zgell/" target=_blank>@zgell</a></th>
+  </tr>
+  <tr>
+    <th><img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-discord.png" height=40em align=center alt-text="Discord" title="Discord"</th>
+    <th>Zgell#0436</th>
   </tr>
 </table>
 
