@@ -79,4 +79,5 @@ Monospace Text Generator: https://www.fancytextpro.com/fancy-text-generator/Luni
 Markdown Simulator: https://jbt.github.io/markdown-editor/
 Inspirations:
 https://github.com/Raymo111/Raymo111
+Shields.io Generator (use for new version of README): https://shields.io/category/analysis
 -->
