@@ -29,15 +29,14 @@ Some of the languages and tools that I use are:
 
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/Platform-Raspberry%20Pi-C51A4A?style=flatplastic&logo=raspberry-pi"> <img alt="Arduino" src="https://img.shields.io/badge/Platform-Arduino-00979D?style=flat&logo=arduino">
 
-<img alt="GitHub" src="https://img.shields.io/badge/Tool-Github-181717?style=flat&logo=github"> <img alt="Visual Studio" src="https://img.shields.io/badge/Tool-Visual%20Studio-5C2D91?style=flat&logo=visual-studio"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code"> <img alt="Sublime Text" src="https://img.shields.io/badge/Tool-Sublime%20Text-FF9800?style=flat&logo=sublime-text"> <img alt="Microsoft Office" src="https://img.shields.io/badge/Tool-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office">
+<img alt="Git" src="https://img.shields.io/badge/Tool-Git-F05032?style=flat&logo=git"> <img alt="GitHub" src="https://img.shields.io/badge/Tool-Github-181717?style=flat&logo=github"> <img alt="Visual Studio" src="https://img.shields.io/badge/Tool-Visual%20Studio-5C2D91?style=flat&logo=visual-studio"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code"> <img alt="Sublime Text" src="https://img.shields.io/badge/Tool-Sublime%20Text-FF9800?style=flat&logo=sublime-text"> <img alt="Microsoft Office" src="https://img.shields.io/badge/Tool-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office">
 
 <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows"> <img alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu"> <img alt="Debian" src="https://img.shields.io/badge/OS-Debian-A81D33?style=flat&logo=debian">
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
 
-- Improving my Python skills and learning about advanced features
+- Improving my C++ skills
 - Learning VHDL and what I can do with it
-- Improving my CSS skills for better web design
 
 <!--
 Sometime in the future, I'd like to learn C# and/or Java as well as Javascript/Typescript.
@@ -48,9 +47,6 @@ I also want to learn a bit more about machine learning down the road and see wha
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
 Last month's project was [PyTerminal](https://github.com/Zgell/pyterminal), a little library to make colour and text formatting more accessible for Python projects.
-
-This month's project is currently unknown, as I am busy with final exams.
-I am hoping to begin a larger project over the Christmas break/early January.
 -->
 
 ### ᴡʜᴀᴛ ɪ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ɪɴ ᴛʜᴇ ꜰᴜᴛᴜʀᴇ
