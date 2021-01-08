@@ -11,20 +11,21 @@ I am...
 - An avid learner
 - Interested in all sorts of areas in computer science, electronics, robotics and rocketry
 
-### ʟᴀɴɢᴜᴀɢᴇꜱ ɪ ᴜꜱᴇ
+### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 
-Some of the languages I use are:
+Some of the languages and tools that I use are:
 <!--
 - **𝙿𝚢𝚝𝚑𝚘𝚗**
 - **𝙼𝙰𝚃𝙻𝙰𝙱**
 - **𝙲++**
 - **𝙷𝚃𝙼𝙻 𝚊𝚗𝚍 𝙲𝚂𝚂**
--->
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-python.png" height=80em align=center alt-text="Python" title="Python">]()
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-matlab.png" height=80em align=center alt-text="MATLAB" title="MATLAB">]()
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-cpp.png" height=80em align=center alt-text="C++" title="C++">]()
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-html.png" height=80em align=center alt-text="HTML" title="HTML">]()
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-css.png" height=80em align=center alt-text="CSS" title="CSS">]()
+-->
+<img alt="Python" src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python"> <img alt="MATLAB" src="https://img.shields.io/badge/Code-MATLAB-orange?style=flat"> <img alt="C++" src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat&logo=c++"> <img alt="HTML5" src="https://img.shields.io/badge/Code-HTML5-E34F26?style=flat&logo=html5"> <img alt="CSS3" src="https://img.shields.io/badge/Code-CSS3-1572B6?style=flat&logo=css3"> <img alt="Raspberry Pi" src="https://img.shields.io/badge/Platform-Raspberry%20Pi-C51A4A?style=flatplastic&logo=raspberrypi"> <img alt="Arduino" src="https://img.shields.io/badge/Platform-Arduino-00979D?style=flat&logo=arduino"> <img alt="GitHub" src="https://img.shields.io/badge/Tool-Github-181717?style=flat&logo=github">
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
 
