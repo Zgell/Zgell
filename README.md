@@ -26,8 +26,11 @@ Some of the languages and tools that I use are:
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-css.png" height=80em align=center alt-text="CSS" title="CSS">]()
 -->
 <img alt="Python" src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python"> <img alt="MATLAB" src="https://img.shields.io/badge/Code-MATLAB-orange?style=flat"> <img alt="C++" src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat&logo=C%2B%2B"> <img alt="HTML5" src="https://img.shields.io/badge/Code-HTML5-E34F26?style=flat&logo=html5"> <img alt="CSS3" src="https://img.shields.io/badge/Code-CSS3-1572B6?style=flat&logo=css3"> <img alt="VHDL" src="https://img.shields.io/badge/Code-VHDL-909090?style=flat">
+
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/Platform-Raspberry%20Pi-C51A4A?style=flatplastic&logo=raspberry-pi"> <img alt="Arduino" src="https://img.shields.io/badge/Platform-Arduino-00979D?style=flat&logo=arduino">
-<img alt="GitHub" src="https://img.shields.io/badge/Tool-Github-181717?style=flat&logo=github"> <img alt="Microsoft Office" src="https://img.shields.io/badge/Tool-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office">
+
+<img alt="GitHub" src="https://img.shields.io/badge/Tool-Github-181717?style=flat&logo=github"> <img alt="Visual Studio" src="https://img.shields.io/badge/Tool-Visual%20Studio-5C2D91?style=flat&logo=visual-studio"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code"> <img alt="Sublime Text" src="https://img.shields.io/badge/Tool-Sublime%20Text-FF9800?style=flat&logo=sublime-text"> <img alt="Microsoft Office" src="https://img.shields.io/badge/Tool-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office">
+
 <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows"> <img alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu"> <img alt="Debian" src="https://img.shields.io/badge/OS-Debian-A81D33?style=flat&logo=debian">
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
