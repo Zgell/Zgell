@@ -54,6 +54,10 @@ I am hoping to begin a larger project over the Christmas break/early January.
 ### ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ
 Here's a list of places you can reach out to me:
 
+<a href="https://www.linkedin.com/in/zachary-gellner-866143203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zachary%20Gellner-0E76A8?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.instagram.com/zgell/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Insta-%40zgell-C13584?style=for-the-badge&logo=instagram"></a>
+<a><img alt="Discord" src="https://img.shields.io/badge/Discord-Zgell%230436-7289da?style=for-the-badge&logo=discord"></a>
+<!--
 <table style="width:30%">
   <tr>
     <th><img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-linkedin.png" height=40em align=center alt-text="LinkedIn" title="LinkedIn"</th>
@@ -68,7 +72,7 @@ Here's a list of places you can reach out to me:
     <th>Zgell#0436</th>
   </tr>
 </table>
-
+-->
 <!--
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-discord.png" height=40em align=left alt-text="Discord" title="Discord">]() Zgell#0436
 [<img src="https://raw.githubusercontent.com/Zgell/Zgell/master/icons/logo-instagram.png" height=40em align=left alt-text="Instagram" title="Instagram">]() @zgell
