@@ -43,10 +43,13 @@ Sometime in the future, I'd like to learn C# and/or Java as well as Javascript/T
 I also want to learn a bit more about machine learning down the road and see what I can do with it.
 -->
 
-<!--
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
-Last month's project was [PyTerminal](https://github.com/Zgell/pyterminal), a little library to make colour and text formatting more accessible for Python projects.
+Currently working on two small projects:
+- [An implementation of Wolfram's Elementary Cellular Automata, in C++](https://github.com/Zgell/elementary-cellular-automaton)
+- [A small cipher/encryption library in C++, just for fun](https://github.com/Zgell/cipher-algorithms)
+<!--
+Next project(s): A small game in C++, A fork of the instagram profile picture switcher
 -->
 
 ### ᴡʜᴀᴛ ɪ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ɪɴ ᴛʜᴇ ꜰᴜᴛᴜʀᴇ
