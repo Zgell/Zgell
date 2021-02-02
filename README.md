@@ -11,6 +11,8 @@ I am...
 - An avid learner
 - Interested in all sorts of areas in computer science, electronics, robotics and rocketry
 
+---
+
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 
 Some of the languages and tools that I use are:
@@ -33,6 +35,8 @@ Some of the languages and tools that I use are:
 
 <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows"> <img alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu"> <img alt="Debian" src="https://img.shields.io/badge/OS-Debian-A81D33?style=flat&logo=debian">
 
+---
+
 ### ᴡʜᴀᴛ ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
 
 - Improving my C++ skills
@@ -43,14 +47,19 @@ Sometime in the future, I'd like to learn C# and/or Java as well as Javascript/T
 I also want to learn a bit more about machine learning down the road and see what I can do with it.
 -->
 
+---
+
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
 Currently working on two small projects:
-- [An implementation of Wolfram's Elementary Cellular Automata, in C++](https://github.com/Zgell/elementary-cellular-automaton)
+- ~~[An implementation of Wolfram's Elementary Cellular Automata, in C++](https://github.com/Zgell/elementary-cellular-automaton)~~ (Finished)
 - [A small cipher/encryption library in C++, just for fun](https://github.com/Zgell/cipher-algorithms)
+- *A possible, secret 3rd project...*
 <!--
 Next project(s): A small game in C++, A fork of the instagram profile picture switcher
 -->
+
+---
 
 ### ᴡʜᴀᴛ ɪ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ɪɴ ᴛʜᴇ ꜰᴜᴛᴜʀᴇ
 
