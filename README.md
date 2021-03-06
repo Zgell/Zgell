@@ -1,5 +1,8 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘᴀɢᴇ!
+<!--
 <a href="https://www.linkedin.com/in/zachary-gellner-866143203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zachary%20Gellner-0E76A8?style=for-the-badge&logo=linkedin"></a>
+-->
+<a href="https://www.linkedin.com/in/zachary-gellner-866143203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-My%20LinkedIn%20Page-0E76A8?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.instagram.com/zgell/?hl=en"><img alt="LinkedIn" src="https://img.shields.io/badge/Insta-%40zgell-C13584?style=for-the-badge&logo=instagram"></a>
 <a><img alt="Discord" src="https://img.shields.io/badge/Discord-Zgell%230436-7289da?style=for-the-badge&logo=discord"></a>
 ### ᴀʙᴏᴜᴛ ᴍᴇ
