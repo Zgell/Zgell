@@ -43,7 +43,7 @@ Some of the languages and tools that I use are:
 ### ᴡʜᴀᴛ ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
 
 - Improving my C++ skills
-- Learning VHDL and what I can do with it
+- Learning Javascript
 
 <!--
 Sometime in the future, I'd like to learn C# and/or Java as well as Javascript/Typescript.
@@ -54,11 +54,11 @@ I also want to learn a bit more about machine learning down the road and see wha
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
-Currently working on two small projects:
+Currently working on learning JavaScript, but I have a couple of small projects associated with that coming very soon.
+<!--
 - ~~[An implementation of Wolfram's Elementary Cellular Automata, in C++](https://github.com/Zgell/elementary-cellular-automaton)~~ (Finished)
 - [A small cipher/encryption library in C++, just for fun](https://github.com/Zgell/cipher-algorithms)
 - *A possible, secret 3rd project...*
-<!--
 Next project(s): A small game in C++, A fork of the instagram profile picture switcher
 -->
 
@@ -68,7 +68,6 @@ Next project(s): A small game in C++, A fork of the instagram profile picture sw
 
 - A few more programming languages, such as...
   - Java or C#
-  - Javascript or Typescript
   - Rust (maybe?)
 - Machine Learning
 - Graphics Libraries/APIs
