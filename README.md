@@ -76,6 +76,14 @@ Next project(s): A small game in C++, A fork of the instagram profile picture sw
   - Rust (maybe?)
 - Machine Learning
 - Graphics Libraries/APIs
+
+### ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ
+
+If you wish to contact me, here are a few places you can find me:
+- [My LinkedIn, for formal inquiries](https://www.linkedin.com/in/zachary-gellner-866143203/)
+- My Discord tag is **Zgell#0436**, for informal inquiries
+- [Check out my Instagram to see what I'm working on!](https://www.instagram.com/zgell/?hl=en)
+
 <!--
 ### ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ
 Here's a list of places you can reach out to me:
