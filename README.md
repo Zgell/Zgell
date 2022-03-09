@@ -12,7 +12,13 @@ I am...
 - A third-year computer engineering (Nanoscale System Design program) student at the University of Alberta
 - A hobbyist programmer
 - An avid learner
-- Interested in all sorts of areas in computer science, electronics, robotics and rocketry
+
+Some of my interests include:
+- Computer Science
+- Electronics
+- Robotics
+- Rocketry
+- Mathematics
 
 ---
 
@@ -36,8 +42,8 @@ Some of the languages and tools that I use are:
 -->
 Categories | Skills and Tools
 -----------|-----------------
-Languages  | ![](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B) ![](https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge)<br>![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/Code-CSS3-1572B6?style=for-the-badge&logo=css3)<br>![](https://img.shields.io/badge/Code-VHDL-909090?style=for-the-badge)
-Frameworks and Libraries | ![](https://img.shields.io/badge/Framework-Django-092E20?style=for-the-badge&logo=django) ![](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js) ![](https://img.shields.io/badge/Library-p5.js-ED225D?style=for-the-badge&logo=p5.js)
+Languages  | ![](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B) ![](https://img.shields.io/badge/Code-Java-007396?style=for-the-badge&logo=java) ![](https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge)<br>![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/Code-CSS3-1572B6?style=for-the-badge&logo=css3)<br>![](https://img.shields.io/badge/Code-VHDL-909090?style=for-the-badge)
+Frameworks and Libraries | ![](https://img.shields.io/badge/Framework-Qt-41CD52?style=for-the-badge&logo=qt) ![](https://img.shields.io/badge/Framework-Django-092E20?style=for-the-badge&logo=django) ![](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js) ![](https://img.shields.io/badge/Library-p5.js-ED225D?style=for-the-badge&logo=p5.js)
 Platforms  | ![](https://img.shields.io/badge/Platform-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi) ![](https://img.shields.io/badge/Platform-Arduino-00979D?style=for-the-badge&logo=arduino) ![](https://img.shields.io/badge/Platform-STM32-03234B?style=for-the-badge&logo=stmicroelectronics)
 Tools      | ![](https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/Tool-Github-181717?style=for-the-badge&logo=github)<br>![](https://img.shields.io/badge/Tool-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio) ![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code) ![](https://img.shields.io/badge/Tool-Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text) ![](https://img.shields.io/badge/Tool-Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepad%2B%2B)<br>![](https://img.shields.io/badge/Tool-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office) ![](https://img.shields.io/badge/Tool-LaTeX-008080?style=for-the-badge&logo=latex) ![](https://img.shields.io/badge/Tool-Slack-4A154B?style=for-the-badge&logo=slack)
 OS         | ![](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows)<br>![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)![](https://img.shields.io/badge/OS-Debian-A81D33?style=for-the-badge&logo=debian)
@@ -58,7 +64,7 @@ I also want to learn a bit more about machine learning down the road and see wha
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɴᴏᴡ
 
-Currently in school right now and focused on learning Java.
+Currently on a co-op work term and working on a few miscellaneous personal projects.
 <!--
 - ~~[An implementation of Wolfram's Elementary Cellular Automata, in C++](https://github.com/Zgell/elementary-cellular-automaton)~~ (Finished)
 - [A small cipher/encryption library in C++, just for fun](https://github.com/Zgell/cipher-algorithms)
@@ -71,10 +77,11 @@ Next project(s): A small game in C++, A fork of the instagram profile picture sw
 ### ᴡʜᴀᴛ ɪ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ɪɴ ᴛʜᴇ ꜰᴜᴛᴜʀᴇ
 
 - A few more programming languages, such as...
-  - Java or C#
+  - C#
   - Rust (maybe?)
 - Machine Learning
-- Graphics Libraries/APIs
+- Computer Networking
+- Low-Level Graphics Libraries/APIs
 
 ### ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ
 
