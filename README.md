@@ -47,7 +47,8 @@ OS         | ![](https://img.shields.io/badge/Windows-0078D6?labelColor=444444&s
 
 ### ᴡʜᴀᴛ ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
 
-- Learning Java
+- Reading up on computer networking in my free time
+- Starting to take more of an interest in applied machine learning
 
 <!--
 Sometime in the future, I'd like to learn C# and/or Java as well as Javascript/Typescript.
