@@ -16,20 +16,32 @@ The Shields (in the "How I Code Things" section):
 
 ![Zgell's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zgell&hide=html,css,scss&theme=merko&layout=compact)
 
+
+
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - Third-year undergraduate Computer Engineering (Nanoscale System Design) student at the University of Alberta
 - *Obsessed* with all things programming and electronics!
-- Interests include (but are not limited to):
-    - Programming
-    - Tinkering with Electronics
-    - Robotics
-    - Rocketry
-    - Mathematics
-    - Hiking and Exploring New Places
-    - Cooking
-    - Learning new skills!
+
+My interests include (but are not limited to):
+- **Programming**
+    - Coding is one of my biggest problem-solving tools, from doing something efficiently on my computer to solving complex math problems.
+- **Tinkering with Electronics**
+    - I'm a big fan of hardware design as well.
+- **Robotics**
+    - The art of robotics has captivated me ever since I was a child, and I've always been messing around with minor robotics projects as a result.
+- **Rocketry**
+    - I lead the software team for the **Student Team for Alberta Rocketry Research**, also known as [STARR](https://github.com/UASTARR), at the University of Alberta.
+- **Mathematics**
+    - I love applying mathematics to coding problems, or sometimes modelling interesting math problems with code.
+- **Hiking and Exploring New Places**
+    - Some of my favourite places I've explored are in the Rockies and at Bowen Island, BC ([see here](https://www.instagram.com/zgell/))
+- **Cooking**
+    - I enjoy all kinds of cuisines from around the world! Fun fact: my favourite type of cuisine to cook is Italian cuisine!
+- **Learning new skills!**
 
 If you need to reach me, please see the links at the top of my profile page. My [LinkedIn](https://www.linkedin.com/in/zachary-gellner-866143203/) is for formal inquiries, and my Discord/[Instagram](https://www.instagram.com/zgell/?hl=en) are for informal inquiries.
+
+
 
 ## 𝙷𝚘𝚠 𝙸 𝙲𝚘𝚍𝚎 𝚃𝚑𝚒𝚗𝚐𝚜
 In no particular order:
@@ -74,12 +86,18 @@ In no particular order:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
+
+
 ## 𝚆𝚑𝚊𝚝 𝚊𝚖 𝙸 𝚞𝚙 𝚝𝚘 𝚛𝚒𝚐𝚑𝚝 𝚗𝚘𝚠?
 
 Currently, I am employed as a co-op student right now while also working on a few casual projects on the side.
 
+
+
 ## 𝚆𝚑𝚊𝚝'𝚜 𝙽𝚎𝚡𝚝?
 Skills I'm currently learning:
 - Rust
+- Java Software Engineering Tools (ie. Maven, Ant)
 - The fundamentals of machine learning
 - The fundamentals of cybersecurity
+- Skills specific to game programming
