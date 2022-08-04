@@ -81,6 +81,7 @@ In no particular order:
 ![Git](https://img.shields.io/badge/-Git-960000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=jekyll)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-902200?style=for-the-badge&logo=jupyter)
 ![LaTeX](https://img.shields.io/badge/-LATEX-008080?style=for-the-badge&logo=latex)
 ![Microsoft Office Suite](https://img.shields.io/badge/-Microsoft%20Office%20Suite-D83B01?style=for-the-badge&logo=microsoft-office)
