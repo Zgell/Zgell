@@ -68,6 +68,7 @@ In no particular order:
 
 ### 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜
 ![Arduino](https://img.shields.io/badge/-Arduino-004F56?style=for-the-badge&logo=arduino)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-864C00?style=for-the-badge&logo=google-colab)
 ![Linux](https://img.shields.io/badge/-Linux-805C00?style=for-the-badge&logo=linux)
 ![Mac OS](https://img.shields.io/badge/-Mac%20OS-000000?style=for-the-badge&logo=macos)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi)
