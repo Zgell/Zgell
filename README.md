@@ -85,6 +85,7 @@ In no particular order:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-902200?style=for-the-badge&logo=jupyter)
 ![LaTeX](https://img.shields.io/badge/-LATEX-008080?style=for-the-badge&logo=latex)
 ![Microsoft Office Suite](https://img.shields.io/badge/-Microsoft%20Office%20Suite-D83B01?style=for-the-badge&logo=microsoft-office)
+![Ngrok](https://img.shields.io/badge/-Ngrok-1f1e37?style=for-the-badge&logo=ngrok)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
