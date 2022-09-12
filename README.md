@@ -111,4 +111,5 @@ Skills I'm currently learning:
 - Java Software Engineering Tools (ie. Maven, Ant)
 - The fundamentals of machine learning
 - The fundamentals of cybersecurity
-- Skills specific to game programming
+- Databases and how to practically implement them
+- More web frameworks (ie. React)
