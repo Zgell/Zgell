@@ -12,6 +12,14 @@ The Shields (in the "How I Code Things" section):
 <a href="https://www.instagram.com/zgell/?hl=en"><img alt="LinkedIn" src="https://img.shields.io/badge/Insta-%40zgell-C13584?style=for-the-badge&logo=instagram"></a>
 <a><img alt="Discord" src="https://img.shields.io/badge/Discord-Zgell%230436-7289da?style=for-the-badge&logo=discord"></a>
 
+<!--
+IMPORTANT NOTE: If the stats cards below are not updating, do the following:
+1) Clear the GitHub repo's image cache by using the following:
+curl -X PURGE <githubusercontent url>
+Alternatively use the script at mpyw/hub-purge to do it all
+2) Force your browser to strip image cache by reloading page with Ctrl-Shift-R
+-->
+
 ![Zgell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zgell&theme=merko)
 
 ![Zgell's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zgell&hide=html,css,scss&theme=merko&layout=compact)
