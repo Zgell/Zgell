@@ -11,11 +11,11 @@ The Shields (in the "How I Code Things" section):
 <a href="https://www.linkedin.com/in/zachary-gellner-866143203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-My%20LinkedIn%20Page-0E76A8?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.instagram.com/zgell/?hl=en"><img alt="LinkedIn" src="https://img.shields.io/badge/Insta-%40zgell-C13584?style=for-the-badge&logo=instagram"></a>
 <a><img alt="Discord" src="https://img.shields.io/badge/Discord-Zgell%230436-7289da?style=for-the-badge&logo=discord"></a>
-<!--
+
 ![Zgell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zgell&theme=merko)
 
 ![Zgell's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zgell&hide=html,css,scss&theme=merko&layout=compact)
--->
+
 
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
