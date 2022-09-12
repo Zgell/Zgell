@@ -88,6 +88,7 @@ In no particular order:
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide)
 ![Git](https://img.shields.io/badge/-Git-960000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-7E3713?style=for-the-badge&logo=gitlab)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=jekyll)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-902200?style=for-the-badge&logo=jupyter)
