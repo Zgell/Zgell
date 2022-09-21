@@ -102,7 +102,7 @@ In no particular order:
 
 ## 𝚆𝚑𝚊𝚝 𝚊𝚖 𝙸 𝚞𝚙 𝚝𝚘 𝚛𝚒𝚐𝚑𝚝 𝚗𝚘𝚠?
 
-Currently, I am employed as a co-op student right now while also working on a few casual projects on the side.
+Currently, I am in school and focusing on that primarily, but also putting some effort into personal projects as well.
 
 
 
