@@ -19,11 +19,11 @@ curl -X PURGE <githubusercontent url>
 Alternatively use the script at mpyw/hub-purge to do it all
 2) Force your browser to strip image cache by reloading page with Ctrl-Shift-R
 -->
-
+<!--
 ![Zgell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zgell&theme=merko)
 
 ![Zgell's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zgell&hide=html,css,scss&theme=merko&layout=compact)
-
+-->
 
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
