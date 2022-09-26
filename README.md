@@ -25,7 +25,7 @@ Alternatively use the script at mpyw/hub-purge to do it all
 
 ![Zgell's GitHub Stats](https://github-readme-stats-qruo-zgellner2001vercel-gmailcom.vercel.app/api?username=zgell&theme=merko)
 
-![Zgell's Languages](https://github-readme-stats-qruo-zgellner2001vercel-gmailcom.vercel.app/api/top-langs/?username=zgell&hide=html,css,scss&theme=merko&layout=compact)
+![Zgell's Languages](https://github-readme-stats-qruo-zgellner2001vercel-gmailcom.vercel.app/api/top-langs/?username=zgell&exclude_repo=ece212-lab2&hide=html,css,scss,makefile,roff&theme=merko&layout=compact)
 
 
 
