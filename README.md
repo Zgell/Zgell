@@ -30,7 +30,7 @@ Alternatively use the script at mpyw/hub-purge to do it all
 
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Third-year undergraduate Computer Engineering (Nanoscale System Design) student at the University of Alberta
+- Fourth-year undergraduate Computer Engineering (Nanoscale System Design) student at the University of Alberta
 - *Obsessed* with all things programming and electronics!
 
 My interests include (but are not limited to):
@@ -71,10 +71,12 @@ In no particular order:
 ### 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 𝚊𝚗𝚍 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
 ![MatPlotLib](https://img.shields.io/badge/-MatPlotLib-11557c?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-2a4858?style=for-the-badge&logo=mysql)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
 ![P5.js](https://img.shields.io/badge/-P5.js-ED225D?style=for-the-badge&logo=p5.js)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
 ![Qt](https://img.shields.io/badge/-Qt-006900?style=for-the-badge&logo=qt)
+![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=for-the-badge&logo=sqlite)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-006237?style=for-the-badge&logo=vue.js)
 
 ### 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜
@@ -113,7 +115,5 @@ Currently, I am in school and focusing on that primarily, but also putting some 
 Skills I'm currently learning:
 - Rust
 - Java Software Engineering Tools (ie. Maven, Ant)
-- The fundamentals of machine learning
-- The fundamentals of cybersecurity
-- Databases and how to practically implement them
+- A bit about cybersecurity/pentesting
 - More web frameworks (ie. React)
