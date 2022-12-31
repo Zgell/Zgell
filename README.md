@@ -47,7 +47,7 @@ My interests include (but are not limited to):
 - **Hiking and Exploring New Places**
     - Some of my favourite places I've explored are in the Rockies and at Bowen Island, BC ([see here](https://www.instagram.com/zgell/))
 - **Cooking**
-    - I enjoy all kinds of cuisines from around the world! Fun fact: my favourite type of cuisine to cook is Italian cuisine!
+    - I enjoy both preparing and tasting all kinds of cuisines from around the world! Fun fact: my favourite type of cuisine to cook is Italian cuisine!
 - **Learning new skills!**
 
 If you need to reach me, please see the links at the top of my profile page. My [LinkedIn](https://www.linkedin.com/in/zachary-gellner-866143203/) is for formal inquiries, and my Discord/[Instagram](https://www.instagram.com/zgell/?hl=en) are for informal inquiries.
@@ -71,6 +71,7 @@ In no particular order:
 ### 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 𝚊𝚗𝚍 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
 ![MatPlotLib](https://img.shields.io/badge/-MatPlotLib-11557c?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2e5c2e?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-2a4858?style=for-the-badge&logo=mysql)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
 ![P5.js](https://img.shields.io/badge/-P5.js-ED225D?style=for-the-badge&logo=p5.js)
@@ -94,6 +95,7 @@ In no particular order:
 ![Git](https://img.shields.io/badge/-Git-960000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-7E3713?style=for-the-badge&logo=gitlab)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20Idea-000000?style=for-the-badge&logo=intellijidea)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=jekyll)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-902200?style=for-the-badge&logo=jupyter)
@@ -107,7 +109,7 @@ In no particular order:
 
 ## 𝚆𝚑𝚊𝚝 𝚊𝚖 𝙸 𝚞𝚙 𝚝𝚘 𝚛𝚒𝚐𝚑𝚝 𝚗𝚘𝚠?
 
-Currently, I am in school and focusing on that primarily, but also putting some effort into personal projects as well.
+Currently, I am in school and focusing on that primarily, but also putting some effort into personal projects as well. I also work regularly on projects with the Student Team for Alberta Rocketry Research, so if that sounds interesting to you, feel free to check out our work [here](https://github.com/UASTARR).
 
 
 
