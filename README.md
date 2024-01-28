@@ -29,35 +29,19 @@ Alternatively use the script at mpyw/hub-purge to do it all
 
 
 
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Fourth-year undergraduate Computer Engineering (Nanoscale System Design) student at the University of Alberta
-- *Obsessed* with all things programming and electronics!
+## 𝙰 𝙻𝚒𝚝𝚝𝚕𝚎 𝙱𝚒𝚝 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- Computer Engineering student at the University of Alberta set to graduate this spring
+- Technical interests include programming, mathematics, rocketry, robotics, and cybersecurity
+- Non-technical interests include cooking and hiking in the mountains ([check out my Instagram if you want to see some pics!](https://www.instagram.com/zgell/))
 
-My interests include (but are not limited to):
-- **Programming**
-    - Coding is one of my biggest problem-solving tools, from doing something efficiently on my computer to solving complex math problems.
-- **Tinkering with Electronics**
-    - I'm a big fan of hardware design as well.
-- **Robotics**
-    - The art of robotics has captivated me ever since I was a child, and I've always been messing around with minor robotics projects as a result.
-- **Rocketry**
-    - I lead the software team for the **Student Team for Alberta Rocketry Research**, also known as [STARR](https://github.com/UASTARR), at the University of Alberta.
-- **Mathematics**
-    - I love applying mathematics to coding problems, or sometimes modelling interesting math problems with code.
-- **Hiking and Exploring New Places**
-    - Some of my favourite places I've explored are in the Rockies and at Bowen Island, BC ([see here](https://www.instagram.com/zgell/))
-- **Cooking**
-    - I enjoy both preparing and tasting all kinds of cuisines from around the world! Fun fact: my favourite type of cuisine to cook is Italian cuisine!
-- **Learning new skills!**
+If you need to reach me, please see the links at the top of my profile page. [My LinkedIn is for formal inquiries](https://www.linkedin.com/in/zachary-gellner-866143203/), and my Discord/[Instagram](https://www.instagram.com/zgell/?hl=en) are for informal inquiries.
 
-If you need to reach me, please see the links at the top of my profile page. My [LinkedIn](https://www.linkedin.com/in/zachary-gellner-866143203/) is for formal inquiries, and my Discord/[Instagram](https://www.instagram.com/zgell/?hl=en) are for informal inquiries.
+<!-- If a colour can't be used because of the logo, just average it with black using a gradient generator. -->
+<!--
+## 𝚂𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎
 
-
-
-## 𝙷𝚘𝚠 𝙸 𝙲𝚘𝚍𝚎 𝚃𝚑𝚒𝚗𝚐𝚜
 In no particular order:
 ### 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
-<!-- If a colour can't be used because of the logo, just average it with black using a gradient generator. -->
 ![C](https://img.shields.io/badge/-C-49596a?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2b%2b)
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-8E0000?style=for-the-badge&logo=html5)
@@ -104,18 +88,17 @@ In no particular order:
 ![Ngrok](https://img.shields.io/badge/-Ngrok-1f1e37?style=for-the-badge&logo=ngrok)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
+-->
 
 
 ## 𝚆𝚑𝚊𝚝 𝚊𝚖 𝙸 𝚞𝚙 𝚝𝚘 𝚛𝚒𝚐𝚑𝚝 𝚗𝚘𝚠?
 
-Currently, I am in school and focusing on that primarily, but also putting some effort into personal projects as well. I also work regularly on projects with the Student Team for Alberta Rocketry Research, so if that sounds interesting to you, feel free to check out our work [here](https://github.com/UASTARR).
+I am currently still enrolled as a student and will be graduating this spring, but I also try to find time to work on personal projects which you can find here. I also still do occasional work on projects with the [Student Team for Alberta Rocketry Research](https://github.com/UASTARR), so if that sounds interesting to you, feel free to check out our work!
 
 
 
 ## 𝚆𝚑𝚊𝚝'𝚜 𝙽𝚎𝚡𝚝?
 Skills I'm currently learning:
-- Rust
-- Java Software Engineering Tools (ie. Maven, Ant)
-- A bit about cybersecurity/pentesting
-- More web frameworks (ie. React)
+- Practicing more hardware design
+- Learning a little more about microfabrication
+- Super interested in certain cybersecurity topics right now!
