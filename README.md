@@ -30,11 +30,11 @@ Alternatively use the script at mpyw/hub-purge to do it all
 
 
 ## 𝙰 𝙻𝚒𝚝𝚝𝚕𝚎 𝙱𝚒𝚝 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Computer Engineering student at the University of Alberta set to graduate this spring
-- Technical interests include programming, mathematics, rocketry, robotics, and cybersecurity
+- MSc. Electrical Engineering student at the University of Alberta
+- Interested in electronics, programming and aerospace
 - Non-technical interests include cooking and hiking in the mountains ([check out my Instagram if you want to see some pics!](https://www.instagram.com/zgell/))
 
-If you need to reach me, please see the links at the top of my profile page. [My LinkedIn is for formal inquiries](https://www.linkedin.com/in/zachary-gellner-866143203/), and my Discord/[Instagram](https://www.instagram.com/zgell/?hl=en) are for informal inquiries.
+If you want to reach me, please see the links at the top of my profile page. [My LinkedIn is for formal inquiries](https://www.linkedin.com/in/zachary-gellner-866143203/), and my Discord/[Instagram](https://www.instagram.com/zgell/?hl=en) are for informal inquiries.
 
 <!-- If a colour can't be used because of the logo, just average it with black using a gradient generator. -->
 <!--
@@ -93,12 +93,11 @@ In no particular order:
 
 ## 𝚆𝚑𝚊𝚝 𝚊𝚖 𝙸 𝚞𝚙 𝚝𝚘 𝚛𝚒𝚐𝚑𝚝 𝚗𝚘𝚠?
 
-I am currently still enrolled as a student and will be graduating this spring, but I also try to find time to work on personal projects which you can find here. I also still do occasional work on projects with the [Student Team for Alberta Rocketry Research](https://github.com/UASTARR), so if that sounds interesting to you, feel free to check out our work!
+Currently doing research in the field of microwave circuits with the University of Alberta.
+I still work on the occasional side project, which will either show up here or on [my website, where I post write-ups about projects](zgell.github.io).
 
 
 
 ## 𝚆𝚑𝚊𝚝'𝚜 𝙽𝚎𝚡𝚝?
-Skills I'm currently learning:
-- Practicing more hardware design
-- Learning a little more about microfabrication
-- Super interested in certain cybersecurity topics right now!
+- Learning a lot about RF/microwave design, communication networks and plasma physics right now as part of my MSc program
+- Working on some secret projects on the side ;)
